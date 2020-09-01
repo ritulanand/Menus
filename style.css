@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.me{
+    background-color: grey;
+    color: white;
+    padding:5px;
+}
+.me :hover{
+  background-color: black;
+}
